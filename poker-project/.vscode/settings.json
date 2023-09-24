@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "cmake.configureOnOpen": true
+}
